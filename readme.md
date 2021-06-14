@@ -1,0 +1,16 @@
+# Projeto api com nodejs e typescript #
+
+Projeto de estudo com nodeJS e Typescript.
+Consiste na criação de uma api para cverificação de condições meteorológicas com base em informações inputadas pelo usuario.
+
+Link do curso: [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT](https://www.nodejs-typescript-api.com/curso-gratis)
+
+
+## step 1:
+* criação do projeto;
+* configuração do typescript;
+
+
+## step 2:
+* configuração do eslint;
+
