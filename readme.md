@@ -14,3 +14,8 @@ Link do curso: [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TY
 ## step 2:
 * configuração do eslint;
 
+## step 3:
+* configuração ts-node-dev;
+
+## step 4:
+* instalação e configuração do jest para testes;
