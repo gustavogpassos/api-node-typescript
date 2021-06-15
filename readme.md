@@ -19,3 +19,8 @@ Link do curso: [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TY
 
 ## step 4:
 * instalação e configuração do jest para testes;
+
+## step 5:
+* inicialização da api;
+* configuração do overnightJS para uso de decorators para as rotas com express;
+* primeiro teste funcional rodando;
