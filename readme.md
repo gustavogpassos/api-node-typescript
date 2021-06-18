@@ -32,3 +32,9 @@ Link do curso: [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TY
 
 ---------------------------------
 
+# Chapter 2
+
+### step 1 - part 1:
+* desenvolver os testes de comunicação com a api externa;
+* desenvolvimento do código com mocks para funcionamento do teste;
+* 
