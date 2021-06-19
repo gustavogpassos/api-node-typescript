@@ -37,4 +37,8 @@ Link do curso: [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TY
 ### step 1 - part 1:
 * desenvolver os testes de comunicação com a api externa;
 * desenvolvimento do código com mocks para funcionamento do teste;
-* 
+
+### step 1 - part2:
+* finalizada a comunicação com a api (ainda não testado 100%);
+* construção de interfaces para os dados recebidos;
+* normalização dos dados recebidos;
